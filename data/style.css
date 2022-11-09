@@ -1,0 +1,28 @@
+.login-body {
+	background: url("../img/bg_abs.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1,h2 {
+	margin: 0%;
+}
+
+table {
+	margin-top: 5rem;
+}
+
+marquee {
+	margin: 5rem;
+	padding: 1rem;
+}
+
+.body-dashboard {
+	background: url("../img/abs.jfif");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+input[type=submit]:hover {
+	cursor: pointer;
+}
